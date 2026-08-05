@@ -1,0 +1,6 @@
+{
+  "name": "PlayZone Esports",
+  "description": "Full-featured esports tournament organizer app for Free Fire, BGMI & COD with live matches, room keys, automated wallet & admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
